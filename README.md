@@ -2,31 +2,31 @@
 
 ## 1. Project overview
 
-### **- Project name:**
+### **Project name:**
 
 Error handling in Express.js.
 
-### **- Description:**
+### **Description:**
 
 This project aims at providing the user with a solid overview of the most common ways to handle error handling and middleware in Node using Express.js.
 
 ## 2. Installation and setup
 
-### **- Requirements:**
+### **Requirements:**
 
 A general knowledge of JavaScript and basic error handling in Node. The dependencies for this project are Express v^4.18.3 and Joi v^17.12.2.
 
-### **- Installation:**
+### **Installation:**
 
 To run this project, download the source code folder from this repository, and run npm i in the terminal. After this run either node app.js or nodemon app.js.
 
 ## 3. Project features
 
-### **- List of features:**
+### **List of features:**
 
 I have made a global try/catch middleware and a global error handler. Apart from this I have also made a custom error class that extends the Error class.
 
-### **- Usage examples:**
+### **Usage examples:**
 
 To trigger errors and middleware, please see instructions for each below:
 
@@ -37,7 +37,7 @@ To trigger errors and middleware, please see instructions for each below:
 
 ## 4. Project structure
 
-### **- Directory structure:**
+### **Directory structure:**
 
 The directory is built up on the root project folder with subfolders and files as per below:
 
@@ -51,16 +51,16 @@ The directory is built up on the root project folder with subfolders and files a
 - package-lock.json
 - README.md
 
-### **- Key files:**
+### **Key files:**
 
 The app.js module is where all of the other modules have been imported to, which is what the node/nodemon session will run off.
 
 ## 5. Technologies used
 
-### **- Languages:**
+### **Languages:**
 
 This project is built on JavaScript in Node.js.
 
-### **- Frameworks/libraries:**
+### **Frameworks/libraries:**
 
 Express.js.
